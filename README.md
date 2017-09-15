@@ -1,4 +1,4 @@
-#java
+# java
 
 Ta repozitorij vsebuje projekt pri Programiranju 2 namenjen spletnemu klepetu.
 
